@@ -1,3 +1,7 @@
+Hello there, This is a personal project that I use to showcase my current progress on Reaction.
+
+In this project, I used React. Practiced mobile responsivity and tried to build my folder structure to be scalable. Project Uses  Emails and Sass.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
