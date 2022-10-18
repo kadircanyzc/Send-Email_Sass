@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Send-Email_Sass/static/css/main.bd314bc6.css",
+    "main.js": "/Send-Email_Sass/static/js/main.84e25133.js",
+    "static/js/787.91052500.chunk.js": "/Send-Email_Sass/static/js/787.91052500.chunk.js",
+    "index.html": "/Send-Email_Sass/index.html",
+    "main.bd314bc6.css.map": "/Send-Email_Sass/static/css/main.bd314bc6.css.map",
+    "main.84e25133.js.map": "/Send-Email_Sass/static/js/main.84e25133.js.map",
+    "787.91052500.chunk.js.map": "/Send-Email_Sass/static/js/787.91052500.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd314bc6.css",
+    "static/js/main.84e25133.js"
+  ]
+}
